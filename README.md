@@ -1,10 +1,9 @@
-# 🎬 Movie Database Analysis (PostgreSQL Project)
+# 🎬 IMDB Movie Database Analysis (PostgreSQL Project)
 
 ## 📊 Overview
 This project explores a comprehensive **movie dataset** using PostgreSQL.  
 It covers everything from **data creation and cleaning** to **advanced analysis** using SQL window functions, aggregations, and ranking queries.
 
-![Dashboard Preview](images/movies_sql_project.png)
 
 ---
 
